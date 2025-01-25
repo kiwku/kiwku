@@ -7,6 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiwku&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+###
+
+<img align="right" height="150" src="https://gifdb.com/images/high/lucky-star-konata-izumi-talking-fast-hands-2qg6w4rj0d07te6u.webp"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
